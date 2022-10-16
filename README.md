@@ -49,5 +49,5 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 ```
 --!>
 
-# Resources 
+#Resources 
 https://app.ipgeolocation.io/
